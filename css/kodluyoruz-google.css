@@ -1,0 +1,118 @@
+.container {
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: #EEEEEE;
+    margin-bottom: 2px;
+    margin-top: 0%;
+}
+
+.container1 {
+    text-align: center; /* İçerik merkezi hizalanır */
+    margin-bottom: 2px;
+    margin-top: 0%;
+}
+
+.beyaz-kutu {
+    background-color: white; /* Beyaz arka plan rengi */
+    width: 400px; /* Kutunun genişliği */
+    height: 20px; /* Kutunun yüksekliği */
+    border: 1px solid #ccc; /* Kenar çizgisi ekler */
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    border-style: ridge;
+}
+
+.kutu-1, .kutu-2 {
+    display: inline-block;
+    width: 150px;
+    height: 20px;
+    background-color: #f0f0f0; /* Gri arka plan rengi */
+    border: 2px solid #ccc; /* Kenar çizgisi ekler */
+    text-align: center; /* İçeriği merkezi hizalar */
+    margin: 0 5px; /* Kutular arasına boşluk ekler */
+    border-style: ridge;
+    font-size: medium;
+    font-style: normal;
+    vertical-align: text-top; /* Metni üste hizalar */
+}
+
+.container2 {
+    width: 550px;
+    height: 90;
+    background-color: rgb(126, 229, 218);
+    font-size: medium;
+    font-style: normal;
+    margin-right: 2px;
+    float: left;
+}
+
+.container3 {
+    background-color: rgb(112, 204, 194);
+    width: 300px;
+    height: 72px;
+    margin-right: 2px;
+    float: left;
+}
+
+.container4 {
+    display: inline;
+    text-align: -webkit-right;
+    background-color: rgb(98, 179, 170);
+    width: 668px;
+    height: 72px;
+    margin-right: 2px;
+    float: left;
+}
+
+.beyaz-kutu1 {
+    padding-right: 150px;
+    background-color: white; /* Beyaz arka plan rengi */
+    width: 80px; /* Kutunun genişliği */
+    height: 17px; /* Kutunun yüksekliği */
+    border: 1px solid #ccc; /* Kenar çizgisi ekler */
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    border-style: ridge;
+}
+
+.kutu-3 {
+    padding-left: 8px;
+    display: flex;
+    align-items: center;
+    width: 70px;
+    height: 18px;
+    background-color: #f0f0f0; /* Gri arka plan rengi */
+    border: 2px solid #ccc; /* Kenar çizgisi ekler */
+    text-align: center; /* İçeriği merkezi hizalar */
+    margin: 0 5px; /* Kutular arasına boşluk ekler */
+    border-style: ridge;
+    font-size: medium;
+    font-style: normal;
+    vertical-align: text-top; /* Metni üste hizalar */
+    margin-bottom: 0;
+}
+
+.bigger-container {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.bigger-kutu-3 {
+    margin-left: 240px;
+    margin-right: 300px;
+
+}
+
+.centered-text {
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+
+
